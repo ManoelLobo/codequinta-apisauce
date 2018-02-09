@@ -1,0 +1,3 @@
+rootProject.name = 'apiconsumer'
+
+include ':app'
